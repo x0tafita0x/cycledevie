@@ -1,0 +1,3 @@
+- Ligne 37 dans notre paquet
+- (Bonne cause) Id inexistant dans xml ou Id different de celui dans xml
+- La correction est la bonne car dans notre cas l'id ne correspond à celui du xml

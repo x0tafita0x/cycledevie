@@ -1,0 +1,61 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Kotlin
+*.class
+*.kotlin_module
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# IntelliJ shared project settings
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# Kotlin/Java generated files
+*.log
+hs_err_pid*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local environment / secrets
+.env
+.env.*
+local.properties
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Build / generated
+target/
+bin/
+
+# Gradle cache
+.gradle/
+
+# Android (if applicable)
+.externalNativeBuild/
+.cxx/
+captures/
+*.apk
+*.aab
+*.ap_
+
+# Test reports
+test-results/
+reports/
